@@ -1,1 +1,0 @@
-chore: Initial project structure and document files
