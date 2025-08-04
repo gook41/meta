@@ -5,7 +5,7 @@
 - **[app-client](https://github.com/gook41/app-client):** 웹 프론트엔드 레포지토리
 - **[app-desktop](https://github.com/gook41/app-desktop):** 일렉트론 백엔드 레포지토리
 
-## 📂 파일 설명
-- `docs/`: 공통 문서, API 명세, 시스템 다이어그램, 가이드 
-- `roadmap.md`: 일정 관리
 
+## 📂 파일 설명
+- `docs/`: 공통 문서, API 명세, 시스템 다이어그램,
+- `learn/`: 학습 자료
