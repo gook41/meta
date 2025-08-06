@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="페이지-1" id="JKLDzXq2R6OebCxw8h2R">
+    <mxGraphModel dx="1366" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n0T6-4YwZH8L0O_1IzZ5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="660" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n0T6-4YwZH8L0O_1IzZ5-2" value="오퍼form section&lt;div&gt;제조사input&amp;nbsp;&lt;/div&gt;&lt;div&gt;품목&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;input&lt;/span&gt;&lt;/div&gt;&lt;div&gt;가격&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;input&lt;/span&gt;&lt;/div&gt;&lt;div&gt;물량&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;input&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n0T6-4YwZH8L0O_1IzZ5-3" value="계산기 폼&lt;div&gt;supplied input&lt;/div&gt;&lt;div&gt;remaining input&lt;/div&gt;&lt;div&gt;average input&lt;/div&gt;&lt;div&gt;total input&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n0T6-4YwZH8L0O_1IzZ5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n0T6-4YwZH8L0O_1IzZ5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="520" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n0T6-4YwZH8L0O_1IzZ5-6" value="&amp;nbsp;/ 예약" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
